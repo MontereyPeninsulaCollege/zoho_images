@@ -58,4 +58,25 @@
 # plain3
 ![image](https://user-images.githubusercontent.com/77175790/155193519-5b5fb422-1aa1-4bbd-9378-7655d38bbc18.png)
 ![image](https://user-images.githubusercontent.com/77175790/155193542-1a61da05-de0a-472d-aefe-a2639cff3857.png)
+![Guided Self-Placement Math Questions BSTEM](https://user-images.githubusercontent.com/77175790/155193618-4e5cbcea-4c61-490c-aadc-78cc40b84421.png)
+# plain4
+![image](https://user-images.githubusercontent.com/77175790/155193997-2d25bf12-92c3-4712-9d74-19b48b7d2507.png)
+![image](https://user-images.githubusercontent.com/77175790/155194006-156e7562-5318-40f5-96ad-612cec36e502.png)
+![image](https://user-images.githubusercontent.com/77175790/155194017-833b41f6-c78a-4bcb-8deb-7927bd8ad661.png)
+![image](https://user-images.githubusercontent.com/77175790/155194033-96c94ab6-d5d7-4b09-baa5-c2f927ace8aa.png)
+![image](https://user-images.githubusercontent.com/77175790/155194045-54da26e1-53d3-42c2-8ab4-3b70262081bc.png)
+![image](https://user-images.githubusercontent.com/77175790/155194057-1905086c-ffc8-4352-89d6-c82d697b9128.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
