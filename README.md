@@ -45,3 +45,17 @@
 ![image](https://user-images.githubusercontent.com/77175790/155186948-258b4a70-f273-44e7-b8c4-050c5e032944.png)
 # math_slam_gsp
 ![SEA](https://user-images.githubusercontent.com/77175790/155182680-2895e4e6-f415-4e85-ac80-d1855785c8da.png)
+
+# BSTEM math placement
+# plain1
+![image](https://user-images.githubusercontent.com/77175790/155193337-9beb33a3-847e-42e4-9455-62b668ba0b1e.png)
+![image](https://user-images.githubusercontent.com/77175790/155193361-128b9eb2-9ef1-461c-a68b-15dc17aa3386.png)
+![image](https://user-images.githubusercontent.com/77175790/155193380-238c739c-a970-4fa1-9833-4200ad2f1b71.png)
+![image](https://user-images.githubusercontent.com/77175790/155193392-a1b46c42-c6cf-4d38-8ee7-3c984f95116c.png)
+# plain2
+![image](https://user-images.githubusercontent.com/77175790/155193458-0d548256-4fca-47fc-bf97-3d0dc46a3f09.png)
+![image](https://user-images.githubusercontent.com/77175790/155193467-b331a347-902f-4ec0-8dfb-77c72ef88468.png)
+# plain3
+![image](https://user-images.githubusercontent.com/77175790/155193519-5b5fb422-1aa1-4bbd-9378-7655d38bbc18.png)
+![image](https://user-images.githubusercontent.com/77175790/155193542-1a61da05-de0a-472d-aefe-a2639cff3857.png)
+
