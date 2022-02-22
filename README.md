@@ -22,3 +22,15 @@
 ![image](https://user-images.githubusercontent.com/77175790/155185355-355b70b5-c02d-4bf6-8326-f5846c2a98d4.png)
 ![Guided Self-Placement Math Questions SLAM](https://user-images.githubusercontent.com/77175790/155185785-3533de02-f97c-4f8d-814c-756e74413335.png)
 # plain6
+![image](https://user-images.githubusercontent.com/77175790/155185957-06001ba7-f370-48bc-b250-dcf35fcf31a0.png)
+![image](https://user-images.githubusercontent.com/77175790/155186023-d38f88b1-ba03-45de-8a6d-e18ffbdb9265.png)
+# plain7
+![image](https://user-images.githubusercontent.com/77175790/155186077-2613db62-14b1-416e-80bb-bf176aa75801.png)
+![image](https://user-images.githubusercontent.com/77175790/155186128-1e86c8f2-0e9f-4e7e-afb0-c9d9ed10c1bc.png)
+![Guided Self-Placement Math Questions SLAM (1)](https://user-images.githubusercontent.com/77175790/155186225-90291cff-39d3-4f5c-b4c0-4dcc80b24d10.png)
+# plain8
+![Guided Self-Placement Math Questions SLAM (2)](https://user-images.githubusercontent.com/77175790/155186337-e26b9904-f22d-4280-b52f-bd6931122829.png)
+![image](https://user-images.githubusercontent.com/77175790/155186396-82bd77e1-ea72-41be-b221-30cea76191fc.png)
+![image](https://user-images.githubusercontent.com/77175790/155186437-e799a6f0-9a4c-4eaa-80a6-0694e5b78703.png)
+# plain9
+![image](https://user-images.githubusercontent.com/77175790/155186507-b3a49ffd-a7cb-43a6-946b-cdb222765b47.png)
