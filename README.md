@@ -34,3 +34,14 @@
 ![image](https://user-images.githubusercontent.com/77175790/155186437-e799a6f0-9a4c-4eaa-80a6-0694e5b78703.png)
 # plain9
 ![image](https://user-images.githubusercontent.com/77175790/155186507-b3a49ffd-a7cb-43a6-946b-cdb222765b47.png)
+![Guided Self-Placement Math Questions SLAM (3)](https://user-images.githubusercontent.com/77175790/155186701-016ec39e-4fa3-429d-ad89-d160be3b491f.png)
+# plain10
+![image](https://user-images.githubusercontent.com/77175790/155186798-3bea6ad2-3d21-4faa-9375-28e451be1df1.png)
+![image](https://user-images.githubusercontent.com/77175790/155186822-391305a8-62b6-49e5-a15e-969393425b07.png)
+![image](https://user-images.githubusercontent.com/77175790/155186839-670b804e-0246-4ddf-8ba4-0dfd62ecf04a.png)
+# plain11
+![image](https://user-images.githubusercontent.com/77175790/155186909-fe3e212d-37b3-41bc-9734-2de4df9cc24d.png)
+![image](https://user-images.githubusercontent.com/77175790/155186935-bc320cd9-ae73-47e6-8c41-480647e935b7.png)
+![image](https://user-images.githubusercontent.com/77175790/155186948-258b4a70-f273-44e7-b8c4-050c5e032944.png)
+# math_slam_gsp
+![SEA](https://user-images.githubusercontent.com/77175790/155182680-2895e4e6-f415-4e85-ac80-d1855785c8da.png)
